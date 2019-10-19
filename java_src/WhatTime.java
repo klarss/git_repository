@@ -1,6 +1,5 @@
 /**
  * WhatTime.java
- * @author 17268026 shimizukoyu
  */
 
 import java.util.Calendar;
